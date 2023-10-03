@@ -3,12 +3,6 @@ Hello! I'm Jaine Santos 🤗
 
 I'm Petroleum Engineer and I'm here to learn, help and exchange!
 I'm open to collaborate on interesting projects.
-
-<div align="center">
-  <a href="https://github.com/JainePS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaineps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaineps&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
   <a>These are some of the major technologies that I use or have worked on:</a>
   <div style="display: inline_block"><br>
