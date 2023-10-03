@@ -1,7 +1,7 @@
 # PSantosJaine
 Hello! I'm Jaine Santos 🤗
 
-I'm Petroleum Engineer and I'm here to learn, help and exchange!
+I'm here to contribute and exchange!
 I'm open to collaborate on interesting projects.
  
 <a>Let's conect 😃</a>
